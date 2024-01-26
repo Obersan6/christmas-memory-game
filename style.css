@@ -30,7 +30,6 @@ h1 {
 
 /* Image inside card styles */
 .img-card {
-    border: 1px solid black;
     height: 200px;
     background-color: maroon;
 }  
